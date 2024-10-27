@@ -1,14 +1,14 @@
 {
-	"name": "tempy",
+	"name": "prem-tempy",
 	"version": "3.1.0",
-	"description": "Get a random temporary file or directory path",
+	"description": "THIS PROJECT WAS MADE BY PREM BABU",
 	"license": "MIT",
-	"repository": "sindresorhus/tempy",
-	"funding": "https://github.com/sponsors/sindresorhus",
+	"repository": "prem-project3608/prem-tempy",
+	"funding": "https://github.com/prem-project3608/prem-tempy",
 	"author": {
-		"name": "Sindre Sorhus",
-		"email": "sindresorhus@gmail.com",
-		"url": "https://sindresorhus.com"
+		"name": "PREM BABU",
+		"email": "premproject09@gmail.com",
+		"url": "https://prem-project3608.com"
 	},
 	"type": "module",
 	"exports": "./index.js",
@@ -23,18 +23,10 @@
 		"index.d.ts"
 	],
 	"keywords": [
-		"temp",
-		"temporary",
-		"path",
-		"file",
-		"directory",
-		"folder",
-		"tempfile",
-		"tempdir",
-		"tmpdir",
-		"tmpfile",
-		"random",
-		"unique"
+		"PREM TEMPY",
+		"PREM PROJECT",
+		"PREM BABU",
+		"PREM PATH"
 	],
 	"dependencies": {
 		"is-stream": "^3.0.0",
